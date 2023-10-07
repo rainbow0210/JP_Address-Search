@@ -1,6 +1,6 @@
 # Discord_JP_Address-Search
 
-### Discord_JP_Address-Search English Version! → [https://github.com/rainbow0210/Discord_JP_Address-Search-en](https://github.com/rainbow0210/Discord_JP_Address-Search-en)
+### Discord_JP_Address-Search English Version! → [https://github.com/rainbow0210/JP_Address-Search-en](https://github.com/rainbow0210/JP_Address-Search-en)
 <!--このプログラムは自分が所属している大学のプログラミングコンテストで作った作品です。!-->
 
 ## 使用言語
